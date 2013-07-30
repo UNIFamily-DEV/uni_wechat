@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/youdao/!svn/ver/1/1/littesnail
+END
+wsgi.py
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/youdao/!svn/ver/1/1/littesnail/wsgi.py
+END
+views.py
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/youdao/!svn/ver/77/1/littesnail/views.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/youdao/!svn/ver/1/1/littesnail/__init__.py
+END
+settings.py
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/youdao/!svn/ver/1/1/littesnail/settings.py
+END
+urls.py
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/youdao/!svn/ver/1/1/littesnail/urls.py
+END
+test.txt
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/youdao/!svn/ver/1/1/littesnail/test.txt
+END

@@ -1,4 +1,4 @@
-littlesnail
+UNI_Family Wechat
 ===========
 
-My little-snail YouDao-Translation WeChat Robot~ 
+Uni Family Wechat project.

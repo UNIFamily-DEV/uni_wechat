@@ -46,7 +46,7 @@ def checkSignature(request):
 		return None
 
 def responseMsg(request):
-	rawStr = smart_str(request.raw_post_data)
+	rawStr = smart_str(request.body)
 	#rawStr = smart_str(request.POST['XML'])
 	msg = paraseMsgXml(ET.fromstring(rawStr))
 	
@@ -74,6 +74,7 @@ def responseMsg(request):
 		result = urllib2.urlopen(req).read()
 		replyContent = paraseYouDaoXml(ET.fromstring(result))
 		result = getBasicReply(msg,replyContent)
+
 	return result
 		
 

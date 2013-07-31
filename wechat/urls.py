@@ -1,5 +1,5 @@
 from django.conf.urls import patterns, include, url
-from littesnail.views import handleRequest
+from wechat.views import handleRequest
 
 # Uncomment the next two lines to enable the admin:
 # from django.contrib import admin
